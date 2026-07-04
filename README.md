@@ -31,7 +31,7 @@ Just give it a search query, and it returns a deduplicated, verified list of dir
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/prime-imgswiper.git
+git clone https://github.com/Mysterious502/prime-imgswiper.git
 cd prime-imgswiper
 pip install -r requirements.txt
 playwright install chromium
